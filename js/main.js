@@ -48,3 +48,4 @@ function showQuote() {
 	///console.log(quotes[x].quote);
 	//console.log(quotes[x].author);
 }
+//commit
